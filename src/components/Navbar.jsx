@@ -1,4 +1,4 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom'
 import { useState } from 'react';
 import logo from '../assets/Logo.png';
 
@@ -8,6 +8,7 @@ function Navbar() {
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
+
   };
 
   return (

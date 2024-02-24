@@ -61,7 +61,7 @@ function Contact() {
                 </div>
                 <div className='p-2 w-full'>
                   <button className='flex mx-auto text-white bg-sky-950 border-0 py-2 px-8 focus:outline-none hover:bg-blue-900 rounded text-lg'>
-                    Button
+                    Send
                   </button>
                 </div>
                 <div className='p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center'>
