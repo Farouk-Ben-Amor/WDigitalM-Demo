@@ -90,6 +90,7 @@ function Footer() {
                 </a>
                 <a
                   href="https://www.linkedin.com/in/faroukbenamor/"
+                  className="text-blueGray-500 hover:text-blueGray-800"
                 >
                   Farouk Ben Amor {" "}
                 </a>
