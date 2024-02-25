@@ -89,8 +89,7 @@ function Footer() {
                   by {" "}
                 </a>
                 <a
-                  href="https://www.creative-tim.com?ref=njs-profile"
-                  className="text-blueGray-500 hover:text-blueGray-800"
+                  href="https://www.linkedin.com/in/faroukbenamor/"
                 >
                   Farouk Ben Amor {" "}
                 </a>
